@@ -1,0 +1,8 @@
+pandas
+joblib
+shap
+matplotlib
+numpy
+streamlit-shap
+streamlit
+tabpfn
