@@ -1,4 +1,4 @@
-# eSpineTBNET
+# STBNet
 # TabPFN-Based Interpretable Deep Learning Model for Discriminating Spinal Tuberculosis from Pyogenic Spinal Infection
 
 This repository contains the code and materials supporting the SCI manuscript titled **"TabPFN-Based Interpretable Deep Learning Model for Discriminating Spinal Tuberculosis from Pyogenic Spinal Infection"**.
